@@ -1,0 +1,9 @@
+Section A: Quick Concept Check
+
+1.input() always returns data of type str (string).
+2.The function used to check the data type of a variable is type().
+3.Convert a string to an integer using the int() function, and to a float using the float() function.
+4.In Python, ** is the operator for exponentiation (power), and // is the operator for floor integer division.
+5.% is called the modulus operator. It gives the remainder of a division.
+6.A single line comment in Python starts with the symbol #.
+7.Write one rule for naming a variable in Python (something that is not allowed)- Can not use python reserved keywords like for, int, etc..
