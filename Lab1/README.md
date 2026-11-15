@@ -1,4 +1,4 @@
-
+Questions to solve-
 1. Variable and Identifier Practice (variable_practice.py)
    Aim: Store basic user information in variables of appropriate data types and print them along with their types.
    Logic: Assign values to variables for name, age, height, and student status. Pass each variable into the type() function inside print() statements to verify and display their data types.
