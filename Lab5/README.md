@@ -1,4 +1,4 @@
-# Python Lab 06: Dictionary Data Structures and Operations
+# Python Lab 5: Dictionary Data Structures and Operations
 
 ## Student Details
 - **Name:** Khushvardhan Johari
@@ -10,7 +10,7 @@
 
 ## Overview
 
-Lab 06 focuses on mastering Python dictionaries (`dict`), hash-based key-value lookups, nested data structures, dictionary comprehensions, and data inversion. The laboratory is divided into three distinct components:
+Lab 5 focuses on mastering Python dictionaries (`dict`), hash-based key-value lookups, nested data structures, dictionary comprehensions, and data inversion. The laboratory is divided into three distinct components:
 
 1. **Practical Programming Tasks (Q1 - Q5):** Menu-driven console applications demonstrating CRUD operations, data aggregation, validation, filtering, and reporting using dictionary architectures.
 2. **Section B (Code Tracing & Output Analysis):** Tracing edge cases involving dictionary reference assignment, shallow copying, falsy key filtering, hash collisions (`1 == 1.0 == True`), dictionary mutation during iteration, and dictionary comprehensions.
@@ -21,7 +21,7 @@ Lab 06 focuses on mastering Python dictionaries (`dict`), hash-based key-value l
 ## File Structure
 
 ```text
-Lab-06/
+Lab-5/
 ├── pythonLabQ1.py    # Question 1: Student Record and Grade Management System
 ├── pythonLabQ2.py    # Question 2: Employee Database and Payroll Analytics
 ├── pythonLabQ3.py    # Question 3: Library Record and Book Lending System
@@ -218,7 +218,7 @@ All programs are written in Python 3 and require no third-party libraries. Run e
 
 ```bash
 # Navigate to the Lab-06 directory
-cd Desktop/IC2k2408-PythonLab-AishwaryaKSingh/Lab-06
+cd Desktop/IC-2k24-46-PythonLab-KhushvardhanJohari/Lab5
 
 # Run Question 1: Student Management System
 python3 pythonLabQ1.py
